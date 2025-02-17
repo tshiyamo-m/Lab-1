@@ -1,0 +1,1 @@
+We've created a repository, made multiple commits, managed branches, and deployed an HTML file to Github Pages. I'm making random changes so I can make a 2nd commit, lol.
